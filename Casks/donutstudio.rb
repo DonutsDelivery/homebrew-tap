@@ -1,8 +1,8 @@
 cask "donutstudio" do
   version "0.9.1"
-  sha256 "0f0f688305305ac9b041838bf32885b3192986e93a5ba3354602346447731254"
+  sha256 "3e2e1c6c8d92d70a88705a48d696f9d22457158af14bea1c69c3f45d34a6e80d"
 
-  url "https://donutsdelivery.online/download-donutstudio/releases/#{version}/DonutStudio-macos.zip"
+  url "https://donutsdelivery.online/download-donutstudio/releases/#{version}/DonutStudio-macos.dmg"
   name "DonutStudio"
   desc "A free DAW for music and video"
   homepage "https://donutsdelivery.online/donutstudio"
