@@ -1,6 +1,6 @@
 cask "donutstudio" do
-  version "0.9.1"
-  sha256 "3e2e1c6c8d92d70a88705a48d696f9d22457158af14bea1c69c3f45d34a6e80d"
+  version "1.0.0"
+  sha256 "8431c533b91a832b34edf151494b194dcd49e3276adfdc663193f923f983a3ca"
 
   url "https://donutsdelivery.online/download-donutstudio/releases/#{version}/DonutStudio-macos.dmg"
   name "DonutStudio"
